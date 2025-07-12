@@ -78,40 +78,9 @@ The scraper includes:
 - `networkidle2` wait condition to ensure complete page loads
 - Headless browsing to minimize resource usage
 
-## 📦 Dependencies
-
-- **[Puppeteer](https://pptr.dev/)** - Headless Chrome browser automation
-- **[Axios](https://axios-http.com/)** - Promise-based HTTP client
-- **[fs](https://nodejs.org/api/fs.html)** - File system operations (built-in)
-
-## 🚨 Important Notes
-
-- This scraper is for educational and research purposes only
-- Respect kolscan.io's terms of service and rate limits
-- Consider implementing delays between requests for large-scale scraping
-- The site structure may change, requiring script updates
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the ISC License.
 
 ## 👤 Author
 
 **Malakia.sol**
 - Telegram: [@KingMalakia](https://t.me/KingMalakia)
 
-## ⚠️ Disclaimer
-
-This tool is provided as-is for educational purposes. Users are responsible for complying with kolscan.io's terms of service and applicable laws. The author is not responsible for any misuse of this software.
-
----
-
-*Happy scraping! 🕷️*
