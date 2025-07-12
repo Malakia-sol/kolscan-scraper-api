@@ -19,7 +19,7 @@ A Node.js web scraper for extracting tokens and trades data from [kolscan.io](ht
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kolscan-scraper-api.git
+git clone https://github.com/Malakia-sol/kolscan-scraper-api.git
 cd kolscan-scraper-api
 ```
 
